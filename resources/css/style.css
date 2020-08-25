@@ -1,3 +1,37 @@
+:root {
+  /*---------- Like 1*/
+  --clock-chimes-thirteen: #041b13;
+  --pink-slip: #d58b8e;
+  --murex: #7f80b0;
+  --tangaroa: #182e3a;
+  /*----- Like 2 */
+  /* color */
+  --night-romance: #704d54;
+  /* background color */
+  --white: #ffffff;
+  /* border */
+  --gala-ball: #78627c;
+  /* parent background (main?) */
+  --pink-slip: #d58b8e;
+}
+
+/* Full color palette */
+:root {
+  /* palette: https://gyazo.com/ebb1b5db65eb0dbbf20cf8da7c08abc5 */
+  /* accessible combinations: https://gyazo.com/51d91af0f40dfa87351aabcc6c868fec */
+  --pink-slip: #d58b8e;
+  --tangaroa: #182e3a;
+  --night-romance: #704d54;
+  --gala-ball: #78627c;
+  --tried-true-blue: #494e61;
+  --murex: #7f80b0;
+  --clock-chimes-thirteen: #041b13;
+  --flotation: #7eb2bd;
+  --scarlet-past: #a3393c;
+  --earhart-emerald: #436a58;
+  --white: #ffffff;
+}
+
 *, *::before, *::after {
   box-sizing: border-box;
 }
